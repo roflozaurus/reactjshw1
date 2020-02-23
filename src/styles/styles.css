@@ -1,0 +1,10 @@
+.modal_window {
+    position: fixed;
+    background-color: gray;
+    color: wheat;
+    width: 70vw;
+    text-align: center;
+    align-content: center;
+    margin-left: 15vw;
+    height: 500px;
+}
